@@ -1,3 +1,6 @@
+# forked from [https://github.com/taowen/awesome-lowcode]https://github.com/taowen/awesome-lowcode
+可以直接关注原项目（更新维护），这里只是方便我自看，不更新维护啊😄
+
 # 国内低代码平台
 
 ## 全栈平台
